@@ -1,0 +1,9 @@
+langchain>=0.1.0
+langchain-community>=0.0.10
+streamlit>=1.29.0
+chromadb>=0.4.22
+sentence-transformers>=2.2.2
+PyPDF2>=3.0.0
+python-magic>=0.4.27
+unstructured>=0.10.30
+markdown>=3.5.1
